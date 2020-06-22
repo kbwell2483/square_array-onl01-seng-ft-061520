@@ -2,8 +2,8 @@ def square_array(array)
   numbers = ["1", "2", "3"]
   
   numbers.each do |square|
-    sum = "#{square} * #{square}"
-    puts sum 
+    puts "#{square} * #{square}"
+
     
    
 end
