@@ -3,5 +3,7 @@ def square_array(array)
   
   numbers.each do |square|
     puts "#{square} * #{square}"
+    sum = "#{square} * #{square}"
+    sum 
 end
 end
