@@ -3,6 +3,6 @@ def square_array(array)
   
   numbers.each do |square|
     squared_numbers = [square ** 2"]
-    puts squared_numbers
+    return squared_numbers
 end
 end
