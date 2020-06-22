@@ -3,7 +3,7 @@ def square_array(array)
   squared_numbers = []
   
   numbers.each do |square|
-   
+    squared_numbers << 
 end
  
 end
